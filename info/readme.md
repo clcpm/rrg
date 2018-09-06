@@ -1,6 +1,6 @@
 # Red River Gorge
 
-Welcom to my page
+Welcome to my page
 
 ## Facts about the Red River Gorge
 
