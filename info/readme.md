@@ -11,3 +11,4 @@ Welcome to my page
 [My map of happiness](https://www.outragegis.com/trails/product/red-river-gorge-backpacking-map/)
 
 ![Become Happiness](http://naturalbridgecabinrental.com/wp-content/uploads/2017/09/Creation-Falls.jpg)
+Photograph from http://naturalbridgecabinrental.com
