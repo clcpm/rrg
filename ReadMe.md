@@ -5,3 +5,5 @@
 
 [Approaching Sky Bridge](https://github.com/clcpm/rrg/blob/master/20181210_141435.jpg)
 
+[View of Sky Bridge](https://github.com/clcpm/rrg/blob/master/20181210_144015.jpg)
+
