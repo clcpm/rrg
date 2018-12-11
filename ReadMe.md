@@ -11,3 +11,5 @@
 
 [Underneath Sky Bridge](https://github.com/clcpm/rrg/blob/master/20181210_144058.jpg)
 
+[View from on top of Sky Bridge](https://github.com/clcpm/rrg/blob/master/20181210_144204%20(1).jpg)
+
