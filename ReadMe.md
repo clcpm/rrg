@@ -8,3 +8,6 @@
 [View of Sky Bridge](https://github.com/clcpm/rrg/blob/master/20181210_144015.jpg)
 
 [View of Sky Bridge 2](https://github.com/clcpm/rrg/blob/master/20181210_144035.jpg)
+
+[Underneath Sky Bridge](https://github.com/clcpm/rrg/blob/master/20181210_144058.jpg)
+
