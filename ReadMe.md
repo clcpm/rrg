@@ -2,3 +2,6 @@
 
 
 [Video of 3D Animation](https://youtu.be/iIf4jES8OP0)
+
+[Approaching Sky Bridge](https://github.com/clcpm/rrg/blob/master/20181210_141435.jpg)
+
