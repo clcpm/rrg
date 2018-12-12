@@ -5,7 +5,12 @@
 ![Map of Sky Bridge with buffer](images/Map_RedRiver_3D.jpg)
 
 ## Animation
+
 [Video of 3D Animation](https://youtu.be/iIf4jES8OP0)
+
+## Maps
+
+[Base map of Red River Gorge arches](basemaps/rrg.pdf)
 
 
 ## Images of Sky Bridge
