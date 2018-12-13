@@ -6,7 +6,7 @@
 
 ## Summary information
 
-How tall, wide, and long is the arch? 
+How tall, wide, and long is the arch? Include the information developed in the [info](info/readme.md).
 
 ## Animation
 
@@ -20,7 +20,7 @@ How tall, wide, and long is the arch?
 
 * [Welcome to the Red River Gorge](https://clcpm.github.io/rrg/)
 
-* [Explore Sky Bridge](#)
+* [Explore Sky Bridge](#) <!-- This needs to be created from lab 8. -->
 
 ## Photographs of Sky Bridge
 
