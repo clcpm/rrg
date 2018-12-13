@@ -16,7 +16,7 @@ How tall, wide, and long is the arch? Include the information developed in the [
 
 * [Base map of Red River Gorge arches](basemaps/rrg.pdf)
 
-## Websites
+## Web pages
 
 * [Welcome to the Red River Gorge](https://clcpm.github.io/rrg/)
 
