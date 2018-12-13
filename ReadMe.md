@@ -22,7 +22,7 @@ How tall, wide, and long is the arch? Include the information developed in the [
 
 * [Welcome to the Red River Gorge](https://clcpm.github.io/rrg/)
 
-* [Explore Sky Bridge](#) <!-- This needs to be created from lab 8. -->
+* [Explore Sky Bridge](skybridge) <!-- This needs to be customized for sky bridge -->
 
 ## Photographs of Sky Bridge
 
