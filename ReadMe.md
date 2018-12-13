@@ -6,7 +6,7 @@
 
 ## Summary information
 
-How tall, wide, and long is the arch? Include the information developed in the [info](info/readme.md).
+Sky Bridge is about 25 feet tall and 75 feet wide
 
 ## Animation
 
