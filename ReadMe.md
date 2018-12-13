@@ -55,3 +55,6 @@ Sky Bridge is about 25 feet tall and 75 feet wide
 
 https://www.mapbox.com/studio/styles/cempie11/cjpd2sztac0dn2snzo8055304/edit/
 
+## Description of Feature
+
+Sky Bridge is located in the eastern part of the Red River Gorge. The trail for Sky Bridge is about a 1 mile long loop. The trail starts by walking down a short path to where you are standing on top of the arch. The views from the top of the arch are incredible. The trail then continues along for a while until it turns around and descends to where you can view the arch from the ground and you can also walk underneath the arch. The trail then continues to a set of stairs that you climb back up to the parking lot.
