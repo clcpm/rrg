@@ -8,6 +8,8 @@ Welcome to my page
 
 2. The Red River Gorge is part of the Pottsville Escarpment.
 
+3. The height of Sky Bridge is 23 feet high and 75 feet wide
+
 [My map of happiness](https://www.outragegis.com/trails/product/red-river-gorge-backpacking-map/) 😀
 
 ![Become Happiness](http://naturalbridgecabinrental.com/wp-content/uploads/2017/09/Creation-Falls.jpg)
