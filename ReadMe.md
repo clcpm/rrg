@@ -16,6 +16,8 @@ How tall, wide, and long is the arch? Include the information developed in the [
 
 * [Base map of Red River Gorge arches](basemaps/rrg.pdf)
 
+* [Cliffs over 40 feet high around Sky Bridge](#) <!-- This needs to be created from lab 7. -->
+
 ## Web pages
 
 * [Welcome to the Red River Gorge](https://clcpm.github.io/rrg/)
